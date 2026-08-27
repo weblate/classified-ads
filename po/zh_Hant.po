@@ -1,11 +1,13 @@
 # hsu zangmen <chzang55@gmail.com>, 2025.
+# Weblate Translation Memory <noreply-mt-weblate-translation-memory@weblate.org>, 2025.
 msgid ""
 msgstr ""
 "Project-Id-Version: classified-ads 0.14\n"
 "Report-Msgid-Bugs-To: antti.jarvinen@katiska.org\n"
 "POT-Creation-Date: 2016-03-14 21:30+0300\n"
 "PO-Revision-Date: 2025-04-27 23:53+0000\n"
-"Last-Translator: hsu zangmen <chzang55@gmail.com>\n"
+"Last-Translator: Weblate Translation Memory <noreply-mt-weblate-translation-"
+"memory@weblate.org>\n"
 "Language-Team: Chinese (Traditional Han script) <https://"
 "translate.fedoraproject.org/projects/classified-ads/master/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -51,7 +53,7 @@ msgstr "選擇儲存的檔案名稱"
 #: ui/attachmentlistdialog.cpp:166
 msgctxt "AttachmentListDialog|"
 msgid "Error"
-msgstr ""
+msgstr "錯誤"
 
 # This gives (no)  explanation about reason for "file open failure"?
 #: ui/attachmentlistdialog.cpp:167
